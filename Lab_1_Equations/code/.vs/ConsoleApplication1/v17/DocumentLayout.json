@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\schil\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PolyProg\\LabWork\\Numerical-Methods\\Lab_1_Equations\\code\\",
+  "WorkspaceRootPath": "C:\\Users\\schil\\source\\repos\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68FC5F3F-1ED8-4BD2-8678-21EBF9821BE7}|ConsoleApplication1.vcxproj|C:\\Users\\schil\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PolyProg\\LabWork\\Numerical-Methods\\Lab_1_Equations\\code\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{68FC5F3F-1ED8-4BD2-8678-21EBF9821BE7}|ConsoleApplication1.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AAD1318F-FF83-4709-93A2-81711ED8FB8B}|ConsoleApplication1.vcxproj|C:\\Users\\schil\\source\\repos\\ConsoleApplication1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AAD1318F-FF83-4709-93A2-81711ED8FB8B}|ConsoleApplication1.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\schil\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PolyProg\\LabWork\\Numerical-Methods\\Lab_1_Equations\\code\\main.c",
+              "DocumentMoniker": "C:\\Users\\schil\\source\\repos\\ConsoleApplication1\\main.c",
               "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "C:\\Users\\schil\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PolyProg\\LabWork\\Numerical-Methods\\Lab_1_Equations\\code\\main.c",
+              "ToolTip": "C:\\Users\\schil\\source\\repos\\ConsoleApplication1\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AgIAANkAAAAAAAAAAAAiwP8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-12T17:29:24.075Z",
+              "WhenOpened": "2024-10-21T20:22:27.381Z",
               "EditorCaption": ""
             }
           ]

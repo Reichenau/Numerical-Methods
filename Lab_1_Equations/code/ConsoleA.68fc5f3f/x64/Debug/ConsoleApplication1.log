@@ -1,9 +1,0 @@
-﻿  main.c
-C:\Users\schil\OneDrive\Рабочий стол\PolyProg\LabWork\Numerical-Methods\Lab_1_Equations\code\main.c(107,12): warning C4101: x: неиспользованная локальная переменная
-C:\Users\schil\OneDrive\Рабочий стол\PolyProg\LabWork\Numerical-Methods\Lab_1_Equations\code\main.c(238,25): warning C4473: "fprintf": передано недостаточно аргументов для строки формата
-      C:\Users\schil\OneDrive\Рабочий стол\PolyProg\LabWork\Numerical-Methods\Lab_1_Equations\code\main.c(238,25):
-      заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
-      C:\Users\schil\OneDrive\Рабочий стол\PolyProg\LabWork\Numerical-Methods\Lab_1_Equations\code\main.c(238,25):
-      отсутствующий вариативный аргумент "1" требуется для строки форматирования "%s"
-  
-  ConsoleApplication1.vcxproj -> C:\Users\schil\OneDrive\Рабочий стол\PolyProg\LabWork\Numerical-Methods\Lab_1_Equations\code\x64\Debug\ConsoleApplication1.exe
